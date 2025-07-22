@@ -1,4 +1,4 @@
-# PDF表格擷取工具
+# PDFTableReaderPy
 這是一個基於 Pandas、Flask 的小工具，一鍵上傳 PDF、依指定欄位擷取表格內容並匯出成 Excel，支援本地與雲端執行。
 
 ## 使用方式
